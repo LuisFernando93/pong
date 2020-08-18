@@ -7,8 +7,8 @@ import java.util.Random;
 
 public class Ball {
 	
-	private static int X0 = 100;
-	private static int Y0 = 70;
+	private static int X0 = 60;
+	private static int Y0 = 60;
 	private static int BALL_WIDTH = 3;
 	private static int BALL_HEIGHT = 3;
 	

@@ -7,7 +7,7 @@ public class Player {
 	
 	private static int PLAYER_WIDTH = 40;
 	private static int PLAYER_HEIGHT = 5;
-	private static int X0 = 100;
+	private static int X0 = 60;
 	private static int Y0 = Game.HEIGHT - PLAYER_HEIGHT;
 	
 	private int x, y;

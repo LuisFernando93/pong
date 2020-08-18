@@ -74,7 +74,9 @@ public class Game  extends Canvas implements Runnable, KeyListener{
 	
 	@Override
 	public void run() {
+		requestFocus();
 		while(true) {
+			
 			update();
 			render();
 			try {
